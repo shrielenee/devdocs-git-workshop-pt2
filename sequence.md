@@ -1,7 +1,7 @@
 ---
-title: Odd Sequence
+title: Even Sequence
 ---
 
-* one
-* three
-* five
+* two
+* four
+* six
