@@ -1,7 +1,7 @@
 ---
-title: Even Sequence
+title: Sequence
 ---
 
+* one
 * two
-* four
-* six
+* three
