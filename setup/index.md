@@ -6,4 +6,5 @@ title: Setup
 
 * Firt, run A
 * Then, perform B
+* After that, load D
 * Finally, execute C
